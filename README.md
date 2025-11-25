@@ -17,9 +17,9 @@ A complete React Native authentication application with email/password authentic
 ## Screenshots
 
 <div align="center">
-  <img src="assets/login.png" alt="Login Screen" width="250"/>
-  <img src="assets/newUser.png" alt="Sign Up Screen" width="250"/>
-  <img src="assets/home.png" alt="Home Screen" width="250"/>
+  <img src="src/assets/login.png" alt="Login Screen" width="250"/>
+  <img src="src/assets/newUser.png" alt="Sign Up Screen" width="250"/>
+  <img src="src/assets/home.png" alt="Home Screen" width="250"/>
 </div>
 
 ## Tech Stack
